@@ -12,7 +12,7 @@ function autoRedirect() {
 		// Creating an Animation instance
 		progressBar = new YAHOO.util.Anim("warnmessage", {width: {from: 300, to: 0}}, 8);
 		progressBar.animate();
-//		progressBar.onComplete.subscribe(function () {window.location.href = 'http://localhost/start.html'});
+//		progressBar.onComplete.subscribe(function () {window.location.href = '/start.html'});
 	}
 	// CustomEvent fired after the panel is shown 
 	oPanel.showEvent.subscribe(alarmEvt);

@@ -42,7 +42,7 @@ def html_header_bottom():
 <body>
 <div id="wrap">
 	<div id="header">
-		<span><a href="http://localhost/"><img src="/images/logo2.jpg" alt="Black Hole Hunter" title="Black Hole Hunter" height="62" width="452" /></a></span>
+		<span><a href="/"><img src="/images/logo2.jpg" alt="Black Hole Hunter" title="Black Hole Hunter" height="62" width="452" /></a></span>
 		<div id="right">
 			Text size: 
 			<a href="#" onclick="setActiveStyleSheet('small'); return false;">Small</a>

@@ -10,7 +10,7 @@ def general_error (exception):
   htmlOutput += "\n"
   htmlOutput += "<br />"
   htmlOutput += "<br />"
-  htmlOutput += """<form method="POST" action="http://localhost/">
+  htmlOutput += """<form method="POST" action="/">
 <input type="submit" value="Try again.">
 </form>"""
   htmlOutput += "</body>\n</html>"

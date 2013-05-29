@@ -1,6 +1,0 @@
-#!\xampp\python\python.exe
-print "Content-type: text/html\n\n"
-print "<html><head><link href=\"/xampp/xampp.css\" rel=\"stylesheet\" type=\"text/css\"></head><body>"
-import os, sys
-print "&nbsp;<br><h1>Python %s</h1>" % sys.version
-print "</body></html>"

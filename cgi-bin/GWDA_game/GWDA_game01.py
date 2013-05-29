@@ -25,3 +25,4 @@ try:
 except Exception, exception:
   htmlOutput = general_error (exception)
   print htmlOutput
+  raise

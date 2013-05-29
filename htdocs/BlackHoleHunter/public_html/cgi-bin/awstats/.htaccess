@@ -1,0 +1,5 @@
+AuthName "stats"
+AuthType Basic
+AuthUserFile /home/game/.htpasswd
+Require user fuzzy123
+

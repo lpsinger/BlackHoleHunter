@@ -1,0 +1,108 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb">
+<head>
+	<title>Einstein@Home</title>
+	<link rel="stylesheet" type="text/css" media="all" href="/css/yui/container.css"/>
+	<style type="text/css" media="all"> @import "styles-site.css"; </style>
+	<link rel="alternate stylesheet" type="text/css" media="all" title="large" href="large.css"/>
+	<link rel="alternate stylesheet" type="text/css" media="all" title="small" href="small.css"/>
+    <script type="text/javascript" src="/scripts/styleswitcher.js"></script>
+    <script type="text/javascript" src="/js/yui/yahoo-dom-event.js"></script>
+    <script type="text/javascript" src="/js/yui/container-min.js"></script>
+    <script type="text/javascript" src="/js/yui/dragdrop-min.js"></script>
+    <script type="text/javascript" src="/js/yui/popups.js"></script>
+    <script type="text/javascript">
+    function pulsareInsert() {
+    	var req = new XMLHttpRequest();
+    	req.open("GET","/eo/pulsare.txt",true);
+    	req.onreadystatechange = function() {
+    		if(req.readyState==4) {
+    			if(req.status==200) {
+    				var d = document.getElementById("pulsareBody")
+    				d.innerHTML = req.responseText;
+    			}
+    		}
+    	}
+    	req.send(null);
+    }
+    </script>
+</head>
+<body>
+<div id="wrap">
+	<div id="content" style="margin: 0 auto; width: 50%">
+		<div id="right">
+			Text size: 
+			<a href="#" onclick="setActiveStyleSheet('small'); return false;">Small</a>
+			 / 
+			<a href="#" onclick="setActiveStyleSheet('medium'); return false;">Medium</a>
+			 / 
+			<a href="#" onclick="setActiveStyleSheet('large'); return false;">Large</a>
+		</div>
+		<div style="margin-top: 100px">
+			<h1 style="font-size: 115%">Einstein@Home</h1>
+			<h2 style="font-size: 110% ">Spitzenforschung unter Beteiligung der &Ouml;ffentlichkeit</h2>
+			<img src="/images/arecibo_saver_small.png" id="areciboSaver" alt="Einstein@Home" />
+			<p>
+			Einsteins Allgemeine Relativit&auml;tstheorie sagte bereits 1916 die Existenz 
+			von Gravitationswellen vorher, aber erst jetzt werden die Messmethoden 
+			empfindlich genug f&uuml;r einen direkten Nachweis. Mit einer der weltweit 
+			h&ouml;chsten Rechenleistungen durchsucht Einstein@Home die Daten der 
+			Gravitationswellen-Detektoren LIGO, GEO600 und Virgo nach Signalen von 
+			sehr dichten, schnell rotierenden Neutronensternen.
+			</p>
+			<p>
+			Die Suche nach diesen Signalen erfordert enorme Computer-Kapazit&auml;ten. 
+			F&uuml;r die Datenanalyse nehmen die Wissenschaftler daher die Hilfe einer 
+			riesigen Anzahl privater Computer-Nutzer in Anspruch. Einstein@Home 
+			bezieht hunderttausende Nutzer weltweit ein, die dem Projekt einen 
+			Teil der Rechenzeit ihres PCs zur Verf&uuml;gung stellen.
+			</p>
+		</div>
+		<div style="clear: right">
+			<p>
+			Das Webportal Einstein Online bietet allgemeinverst&auml;ndliche Informationen &uuml;ber Gravitationswellen:
+			</p>
+			<ul>
+			<li style="padding-bottom: 5px"><a href="javascript:gravWellenInsert()" id="show1">Gravitationswellen f&uuml;r Einsteiger</a></li>
+			<li style="padding-bottom: 5px"><a href="javascript:GW_WellenInsert()" id="show2">Die Wellennatur der Gravitationswellen</a></li>
+			<li style="padding-bottom: 5px"><a href="javascript:zirpenInsert()" id="show3">Das Zirpen der Neutronensterne</a></li>
+			<li style="padding-bottom: 5px"><a href="javascript:eahInsert()" id="show4">Einstein@Home auf Einstein Online</a></li>
+			</ul>
+
+			<h2>Black Hole Hunter</h2>
+			<p>
+			Machen Sie sich auf die Jagd nach Gravitationswellen &mdash; suchen Sie 
+			Schwarze L&ouml;cher und Neutronensterne! H&ouml;ren Sie das Signal im Rauschen 
+			des Detektors?<br /><br />
+			<a href="http://localhost/index.html" style="text-decoration: underline; font-size: 130%">Spiel starten</a>
+			</p>
+		</div>
+	</div>
+</div>
+
+<div class="yui-skin-sam" style="text-align: left">
+	<div id="gravWellen">
+		<div class="hd">Was sind Gravitationswellen?</div>
+		<div class="bd" id="gravWellenBody"></div>
+		<div class="ft" style="height: 23px">&copy; http://www.einstein-online.info</div>
+	</div>
+	<div id="GW_Wellen">
+		<div class="hd">Die Wellennatur der Gravitationswellen</div>
+		<div class="bd" id="GW_WellenBody"></div>
+		<div class="ft" style="height: 23px">&copy; http://www.einstein-online.info</div>
+	</div>
+	<div id="ZirpenNeutronensterne">
+		<div class="hd">Das Zirpen der Neutronensterne</div>
+		<div class="bd" id="zirpenBody"></div>
+		<div class="ft" style="height: 23px">&copy; http://www.einstein-online.info</div>
+	</div>
+	<div id="eah">
+		<div class="hd">Einstein@Home - Gravitationswellenjagd f&uuml;r alle</div>
+		<div class="bd" id="eahBody"></div>
+		<div class="ft" style="height: 23px">&copy; http://www.einstein-online.info</div>
+	</div>
+</div>
+</body>
+</html>

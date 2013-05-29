@@ -1,0 +1,112 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+      "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb">
+<head>
+	<meta name="Author" content="Cardiff University Relativity Group"/>
+	<meta name="copyright" content="Copyright Cardiff University"/>
+	<meta name="Description" content="Black Hole Hunter Website "/>
+	<meta name="keywords" content="Black Hole Hunter, Relativity Group, Cardiff University, Cardiff, Wales, United Kingdom"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<title>Black Hole Hunter :: Home</title>
+	<style type="text/css" media="all"> @import "styles-site2.css"; </style>
+	<link rel="alternate stylesheet" type="text/css" media="all" title="large" href="large.css"/>
+	<link rel="alternate stylesheet" type="text/css" media="all" title="small" href="small.css"/>
+	<script type="text/javascript" src="scripts/popup.js"></script>
+	<script type="text/javascript" src="scripts/styleswitcher.js"></script>
+</head>
+
+<body>
+
+<div id="wrap">
+<div id="header">
+<span><a href="http://www.blackholehunter.org"><img src="images/logo2.jpg" alt="Black Hole Hunter" height="62" width="452" /></a></span>
+<div id="right">
+Text Size: 
+<a href="#" onclick="setActiveStyleSheet('small'); return false;">Small</a>
+ / 
+<a href="#" onclick="setActiveStyleSheet('medium'); return false;">Medium</a>
+ / 
+<a href="#" onclick="setActiveStyleSheet('large'); return false;">Large</a>
+<br/>
+<a href="http://jigsaw.w3.org/css-validator/validator?uri=http://www.blackholehunter.org"><img style="border:0;width:80px;height:15px" src="images/css.gif" alt="Valid CSS!"/></a>
+
+<a href="http://validator.w3.org/check?uri=referer"><img src="images/xhtml.gif" alt="Valid XHTML 1.1" height="15" width="80" /></a>
+</div>
+</div>
+
+<div id="sidelinks">
+<ul id="sidelist">
+<li>Further Reading:</li>
+<li><a href="http://www.astro.cf.ac.uk/groups/gravity/research">Overview</a></li>
+<li><a href="http://www.astro.cf.ac.uk/groups/gravity/tutorial">Tutorial</a></li>
+<li><a href="http://www.astro.cf.ac.uk/groups/gravity/research/gw_sources">Gravitational Wave Sources</a></li>
+<li><a href="http://www.astro.cf.ac.uk/groups/gravity/research/gw_searches">Gravitational Wave Searches</a></li>
+</ul>
+
+<hr/>
+
+Black Hole Hunter game was developed as a part of the Royal Society
+Summer Exhibition 2008, <i>Can you hear black holes collide?</i>
+presented by Cardiff University, Universities of Birmingham, Glasgow
+and Southampton in the UK in collaboration with the Albert Einstein
+Institute and Milde Marketing in Germany.
+<p>
+Copyright &copy; Cardiff University
+</p>
+
+<hr/>
+
+<ul id="sideimages">
+<li><a href="http://www.cardiff.ac.uk" rel="external"><img src="/images/logos2go/CU-logo.gif" alt="Cardiff University" title="Cardiff University" height="120" width="118" /></a>
+<a href="http://www.aei.mpg.de"><img src="images/aeilogo.png" alt="Albert Einstein Institute" title="Albert Einstein Institute" height="120" width="135" /></a></li>
+<li><a href="http://www.bham.ac.uk"><img src="images/logos2go/birm-logo.gif" alt="University of Birmingham" title="University of Birmingham" height="55" width="202" /></a></li>
+<li><a href="http://www.soton.ac.uk"><img src="/images/logos2go/south-logo.gif" alt="University of Southampton" title="University of Southampton" height="50" width="230" /></a></li>
+<li><a href="http://www.gla.ac.uk"><img src="/images/logos2go/glas-logo.gif" alt="University of Glasgow" title="University of Glasgow" height="60" width="200" /></a></li>
+<!--<li><a href="http://www.sheff.ac.uk"><img src="/images/logos2go/sheff-logo.gif" alt="University of Sheffield" title="University of Sheffield" height="83" width="177" /></a></li>
+<li><a href="http://www.royalsociety.org"><img src="/images/logos2go/roysoc.gif" alt="The Royal Society" title="The Royal Society" height="69" width="164" /></a></li>
+<li><a href="http://www.summerscience.org.uk"><img src="/images/logos2go/sumsci.gif" alt="Summer Science Exhibition" title="Summer Science Exhibition" height="84" width="180" /></a></li>-->
+<li><a href="http://www.scitech.ac.uk"><img src="/images/logos2go/stfc.gif" alt="Science and Technology Facilities Council" title="Science and Technology Facilities Council" height="74" width="296" /></a></li>
+<li><a href="http://www.milde-marketing.de"><img src="/images/logos2go/milde2.gif" alt="Milde Marketing" title="Milde Marketing" height="59" width="285" /></a></li>
+</ul>
+</div>
+
+<div id="content">
+<p>
+<img class="float" title="Two merging black holes" src="images/main_wav.jpg" width="300" height="313" alt="Two merging black holes"/>
+</p>
+
+<p>
+Welcome to Black Hole Hunter. The game that lets <b>YOU</b> search for gravitational waves.
+</p>
+<p>
+Please select a difficulty level:
+</p>
+
+<form action="cgi-bin/GWDA_game/GWDA_game01.py" method="post">
+<p>
+1 <input name="difficulty" id="a" value="1" type="radio" checked="checked"/>Beginner<br/>
+<br/>
+2 <input name="difficulty" id="b" value="2" type="radio"/>Intermediate<br/>
+<br/>
+3 <input name="difficulty" id="c" value="3" type="radio"/>Advanced<br/>
+<br/>
+<input name="submit" value="PLAY" id="submit" type="submit"/><br/>
+</p>
+</form>
+
+<p>
+As your gravitational wave hunting improves, higher levels may become available to you!
+</p>
+
+<p>
+<b>Disclaimer: The game is currently being developed, stability is therefore NOT guaranteed.</b>
+</p>
+
+
+</div>
+
+</div> 
+</body>
+
+</html>

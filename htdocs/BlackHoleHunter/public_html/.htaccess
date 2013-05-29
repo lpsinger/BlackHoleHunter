@@ -1,0 +1,6 @@
+# Error handling and redirecting
+ErrorDocument 401 /redirect.html
+ErrorDocument 403 /redirect.html
+ErrorDocument 403 /redirect.html
+ErrorDocument 404 /redirect.html
+DirectoryIndex index.html /redirect.html

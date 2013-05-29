@@ -1,0 +1,33 @@
+body {
+font-size: 8pt;
+}
+/*
+#right {
+font-size: 90%;
+}
+
+
+h1 {
+font-size: ;
+}*/
+
+.yui-skin-sam .yui-panel .container-close {
+width: 150px !important;
+}
+
+.yui-skin-sam .yui-panel .bd {
+height: 626px !important;
+}
+
+/* Fixes der Einstiegsseite */
+#gravWellenBody,
+#GW_WellenBody,
+#zirpenBody,
+#eahBody {
+height: 615px !important;
+}
+
+#areciboSaver {
+  width: 25%;
+  height: 25%;
+}

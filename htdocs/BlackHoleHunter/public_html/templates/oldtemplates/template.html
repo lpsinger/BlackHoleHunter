@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+      "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb">
+<head>
+	<meta name="Author" content="Gerald Davies"/>
+	<meta name="copyright" content="Copyright Cardiff University"/>
+	<meta name="Description" content="Gravitational Wave Hunter Website "/>
+	<meta name="keywords" content="Gravitational Wave Hunter, Relativity Group, Cardiff University, Cardiff, Wales, United Kingdom"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<title>Gravitational Wave Hunter :: Home</title>
+	<style type="text/css" media="all"> @import "styles-site.css"; </style>
+	<link rel="alternate stylesheet" type="text/css" media="all" title="large" href="large.css"/>
+	<link rel="alternate stylesheet" type="text/css" media="all" title="small" href="small.css"/>
+	<script type="text/javascript" src="scripts/popup.js"></script>
+	<script type="text/javascript" src="scripts/styleswitcher.js"></script>
+</head>
+
+<body>
+
+<div id="wrap">
+<div id="header">
+<span><a href="http://www.gravwaves.co.uk"><img src="images/logo2.jpg" alt="Gravitational Wave Hunter" height="62" width="626" /></a></span>
+<div id="right">
+Text Size: 
+<a href="#" onclick="setActiveStyleSheet('small'); return false;">Small</a>
+ / 
+<a href="#" onclick="setActiveStyleSheet('medium'); return false;">Medium</a>
+ / 
+<a href="#" onclick="setActiveStyleSheet('large'); return false;">Large</a>
+<br/>
+<a href="http://jigsaw.w3.org/css-validator/validator?uri=http://www.gravwaves.co.uk"><img style="border:0;width:80px;height:15px" src="images/css.gif" alt="Valid CSS!"/></a>
+<a href="http://validator.w3.org/check?uri=referer"><img src="images/xhtml.gif" alt="Valid XHTML 1.1" height="15" width="80" /></a>
+</div>
+</div>
+
+<div id="contentgame">
+<p>
+Your task is to find a Compact Binary Coalescence with masses 20.00 and 20.00 solar masses and inclination angle of 0.00 degrees in the noisy output of a LIGO detector.
+</p>
+
+<p>
+You are able to listen to this object by clicking below. Once you have done that click on the four files at the bottom. One of them will contain this signal, you must decide which one!
+</p>
+
+<br/>
+
+<p><b>Click on the image below to hear the sound.</b></p>
+<p><b>This is what you are listening for.</b></p>
+<div class="signal">
+<!--
+<img title="" src="images/Signal.jpg" width="400" height="287" alt=""/>
+-->
+
+<p>
+<b>click on the images to hear the corresponding sounds.</b><br/>
+</p>
+</div>
+
+
+<div class="signalwrap">
+
+<div class="signal">
+<img title="" src="images/Noise.jpg" width="400" height="287" alt=""/>
+<p>
+<b>Example 1</b>
+</p>
+</div>
+
+<div class="signal">
+<img title="" src="images/Noise.jpg" width="400" height="287" alt=""/>
+<p>
+<b>Example 2</b>
+</p>
+</div>
+
+<div class="signal">
+<img title="" src="images/Noise.jpg" width="400" height="287" alt=""/>
+<p>
+<b>Example 3</b>
+</p>
+</div>
+
+<div class="signal">
+<img title="" src="images/Noise.jpg" width="400" height="287" alt=""/>
+<p>
+<b>Example 4</b>
+</p>
+</div>
+
+</div>
+
+<div class="signalfix">
+<p>
+Select which example contains the signal: 
+&nbsp;&nbsp;
+<input name="submit" value="Proceed" id="submit" type="submit"/><br/>
+</p>
+<form action="cgi-bin/GWDA_game/GWDA_game01.py" method="post">
+<p>
+<input name="difficulty" id="a" value="1" type="radio" checked="checked"/>Example 1
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input name="difficulty" id="b" value="2" type="radio"/>Example 2
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
+<input name="difficulty" id="c" value="3" type="radio"/>Example 3
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input name="difficulty" id="d" value="4" type="radio"/>Example 4<br/>
+</p>
+</form>
+</div>
+
+</div>
+</div> 
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+<p>Schon relativ bald nachdem Beginn der Radioastronomie erhielten die Astronomen erste Einblicke in die Vielfalt der aktiven Galaxienkerne.  Ein Beispiel zeigt die folgende Abbildung:<br>
+</p><center><table border="0"><tbody><tr><td>
+<img src="/eo/images/CygA-Color.jpg" alt="Radiogalaxie Cygnus A,  Aufnahme des NRAO" width="360" height="206"><br>
+<span class="bu">[Bild: NRAO/AUI/NSF]</span>
+<br clear="all">
+</td></tr></tbody></table></center>
+<p>Dieses Falschfarbenbild von Beobachtungen im Radiobereich zeigt eine Radiogalaxie (den winzigen Punkt in der Mitte), die nach links und nach rechts höchst energetische Teilchenstrahlen aussendet.  Die Strahlen werden durch Zusammenstöße mit dem intergalaktischen Gas abgebremst und regen riesige Gebiete davon zum Leuchten an (die großen Blasen links und rechts).</p>
+<p>Doch woher beziehen diese und ähnliche aktive Galaxien ihre gewaltige Energie?  Recht bald wurde klar, dass nur eine Energiequelle infrage kommt: Der Prozess, bei dem Materieteilchen, der Gravitation folgend, auf eine Masse zu fallen, dabei an Energie gewinnen und das Materiegemisch durch gegenseitige Kollisionen aufheizen; einer der effizientesten Prozesse überhaupt, um Energie freizusetzen.</p>
+<p>Als zentrale Masse wiederum kamen nur Objekte mit Massen und Ausmaßen infrage, bei denen es sich um wahre kosmische Massemonster handeln musste:  sogenannte <em>supermassive Schwarze Löcher</em>, die in sich die Massen von Millionen von Sonnen vereinigen.</p>
+<p>Nach heutiger Vorstellung der Astronomen sind supermassive Schwarze Löcher in Galaxienkerne eher die Regel als die Ausnahme. Nicht nur in aktiven Galaxien, sondern ganz generell: Auch unsere eigene Galaxie, die Milchstraße enthält ein Schwarzes Loch.</p>

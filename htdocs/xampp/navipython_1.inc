@@ -1,0 +1,1 @@
+<br><a class=n target=content onClick="h(this);" href=python-info.php><?=$TEXT['navi-python']?></a>

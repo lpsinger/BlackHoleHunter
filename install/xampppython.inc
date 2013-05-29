@@ -1,0 +1,11 @@
+<?php
+$backslash[$bslashi++]="python.cgi";
+$backslashrootawk['python.cgi']="\"$awkpart\\\cgi-bin\\\\";
+$backslashrootreal['python.cgi']="$partwampp\cgi-bin\\";
+$backslash[$bslashi++]="apachepython_start.bat";
+$backslashrootawk['apachepython_start.bat']="\"$awkpart\\\\";
+$backslashrootreal['apachepython_start.bat']="$partwampp\\";
+$slash[$slashi++]="python.conf";
+$slashrootawk['python.conf']="\"$awkpart\\\apache\\\conf\\\\";
+$slashrootreal['python.conf']="$partwampp\apache\conf\\";
+?>

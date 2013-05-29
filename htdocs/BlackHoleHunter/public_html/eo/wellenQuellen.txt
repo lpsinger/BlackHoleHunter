@@ -1,0 +1,21 @@
+<p>Die Gelegenheiten, bei denen Gravitationswellen entstehen können sind vielfältig: Fast überall dort, wo Massen beschleunigt werden, ob nun zwei Himmelskörper umeinander umlaufen oder Materie bei einer gewaltigen Explosion in den Weltraum geschleudert wird, werden Gravitationswellen ausgesandt.</p>
+<p>Allerdings sind die Gravitationswellen, die uns aus den Tiefen des Alls erreichen, umso schwächer, je weiter das erzeugende Ereignis von uns entfernt ist.  Als Quellen jener Wellen, von denen wir hoffen können, sie mit empfindlichen Detektoren nachzuweisen, kommen daher vor allem kosmische Extremsituationen infrage.</p>
+<p>Eine solche Extremsituation ist gegeben, wenn zwei Neutronensterne umeinander kreisen, oder wenn es sich bei einem der Partner (oder gar bei beiden) um ein Schwarzes Loch handelt. Solche Objekte (auf beide Arten wird im nachfolgenden Kapitel Schwarze Löcher &amp; Co. näher eingegangen) sind sehr kompakt: sie besitzen,  gemessen an ihrer geringen Größe, eine extrem hohe Masse. Das macht die betreffenden Doppelstern-Systeme zu vorzüglichen Gravitationswellen-Quellen.</p>
+<p>Gravitationswellen konnten bislang nicht direkt beobachtet werden. Indirekt dagegen lässt sich ihre Existenz dagegen anhand eines Systems sich umkreisender Neutronensterne nachweisen, das den astronomischen Namen PSR1913+16 trägt.  Einsteins Theorie sagt voraus, dass mit der Abstrahlung der Gravitationswellen ein Energieverlust einhergeht, durch den die Neutronensterne einander immer näherkommen und sich immer schneller umkreisen.  Tatsächlich nimmt die Umlaufzeit des Systems PSR1913+16, über Jahrzehnte hinweg beobachtet, exakt in der Form und um denjenigen Betrag ab, wie von der allgemeinen Relativitätstheorie vorhergesagt: ein deutlicher Hinweis auf die Abstrahlung von Gravitationswellen, der seinen Entdeckern Russell Hulse und Joseph Taylor den Physik-Nobelpreis 1993 einbrachte.</p>
+<p>Wenn der Umkreisungs-Abstand, wie bei diesen Neutronensternen, mit der Zeit immer geringer wird, kommt es letztendlich zur Kollision und dabei zur Freisetzung ganz gewaltiger Energien in Form von Gravitationswellen. In der folgenden Computersimulation von Wissenschaftlern des Max-Planck-Instituts für Gravitationsphysik entsprechen die sich ausbreitenden farbigen Regionen den Raumverzerrungen durch Gravitationswellen, die beim Zusammenstoß zweier Schwarze Löcher freigesetzt werden:</p>
+<p><span class="txtklein">[© W. Benger AEI/ZIB. Da die Abbildung 93 kB groß ist, kann es je nach Internetverbindung zu einer Verzögerung kommen, bis das Bild geladen ist.]</span></p>
+<br>
+<center>
+<table border="0">
+<tbody>
+<tr>
+<td>
+<img src="/eo/images/benger1.gif" alt="Schwarzloch-Klein-Kollision" width="250" height="188">
+<br>
+<br clear="all">
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<p>Vielversprechende Quellen sind ausserdem sogenannte Supernovae, gewaltige Sternexplosionen, bei denen unvorstellbare Energien freigesetzt und gewaltige Materiemengen ins All hinausgeschleudert werden.</p>

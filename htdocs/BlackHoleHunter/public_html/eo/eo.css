@@ -1,0 +1,28 @@
+body {
+  background-color: #FEFDEB;
+  font-size: 10pt;
+  font-family: Verdana, Helvetica, Arial;
+  padding: 15px 15px 15px 20px;
+}
+
+p {
+  line-height: 1.5em;
+}
+
+h2 {
+  font-size: 110%;
+}
+
+.txtklein {
+  text-decoration:none;
+  font-size: 8pt;
+  font-family: Verdana, Helvetica, Arial;
+  color:#000000; line-height:9pt;
+}
+
+.bu {
+  text-decoration:none;
+  font-size: 8pt;
+  font-family: Verdana, Helvetica, Arial;
+  color:#717171; line-height:9pt;
+}

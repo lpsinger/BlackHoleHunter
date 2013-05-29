@@ -1,0 +1,241 @@
+body {
+margin: 0;
+padding: 0;
+border: 0;
+font-family: Verdana, sans-serif;
+font-size: 10pt;
+text-align: center;
+background:#EEE;
+}
+
+#header {
+background: #FFF;
+border-bottom: 2px solid;
+height: 65px;
+font-family: "Trebuchet MS", Verdana, sans-serif;
+font-weight: normal;
+line-height: 20pt
+}
+
+#header span {
+position: absolute;
+top: 0;
+left: 14px;
+}
+
+#right {
+font-size: 100%;
+float: right;
+padding: 5px 25px 0px 0;
+}
+
+html>body #header span {
+top: 0;
+}
+
+a.nofrills:link {color:#000;background-color:transparent;text-decoration:none;}
+a.nofrills:visited {color:#000;background-color:transparent;text-decoration:none;}
+a.nofrills:active {color:#000;background-color:transparent;text-decoration:none;}
+a.nofrills:hover {color:#000;background-color:transparent;text-decoration:none;}
+
+img{border:none;}
+
+img.float {
+float: right;
+padding: 0 0 0 30px;
+}
+
+img.logo {
+padding: 5px;
+}
+
+a:link    {color:#0000FF;background-color:transparent;text-decoration:none;}
+a:visited {color:#0000FF;background-color:transparent;text-decoration:none;}
+a:active  {color:#0000FF;background-color:transparent;text-decoration:none;}
+a:hover   {color:#0000FF;background-color:transparent;text-decoration:underline;}
+
+#wrap {
+position: relative;
+padding: 0;
+text-align: left;
+width: 100%;
+}
+
+#backtotop {
+padding-right: 5px;
+float:right;
+}
+
+#sidelinks {
+width: 30%;
+float: right;
+margin: 0px;
+padding: 0px;
+color: #000000;
+background: #CCCCCC;
+}
+
+html>body #sidelinks {
+padding: 5px;
+}
+
+#content {
+margin: 10px;
+padding: 0 0 0 0;
+width: 65%;
+}
+
+html>body #content {
+padding: 1em 0 0 0;
+}
+
+#contentgame {
+margin: 0 2em 0 2em;
+}
+
+html>body #contentgame {
+padding-top: 0;
+}
+
+div.didyouknow {
+border: 1px solid #000000;
+margin-bottom: 2em;
+padding-right: 1em;
+padding-left: 1em;
+background: #CCCCCC;
+}
+
+div.didyouknow2 {
+border: 1px solid #000000;
+margin-bottom: 2em;
+padding-right: 1em;
+padding-left: 1em;
+background: #CCCCCC;
+}
+
+p.warning {
+float: left;
+border: 1px solid #000000;
+background: #BBBBBB;
+padding: 5px;
+width: 22%;
+}
+
+div.signal {
+width: 35%;
+float: left;
+margin-right: 0;
+}
+
+div.signal img {
+cursor: pointer;
+}
+
+div.signal2 {
+padding: 5px;
+}
+
+div.signalfix {
+position: relative;
+clear: both;
+margin: 0;
+padding: 0 0 2em 1em;
+}
+
+h1 {
+margin: 0;
+padding: 0;
+border: 0;
+font-family: Verdana, sans-serif;
+font-size: 120%;
+font-weight: bold;
+}
+
+h2 {
+ font-size: 110%;
+}
+
+#sidelist
+{
+padding-left: 0;
+margin-left: 0;
+}
+
+#sidelist li
+{
+list-style: none;
+margin: 0;
+padding: 3px;
+}
+
+img.play {
+cursor: pointer;
+}
+
+div.outputs {
+float: right;
+width: 62%;
+border-left: 5px solid #999999;
+padding-left: 30px;
+margin-left: 0;
+}
+
+div#stream1 {
+width: 342px;
+float: left;
+}
+
+div#stream2 {
+width: 342px;
+float: right;
+}
+
+div#stream3 {
+width: 342px;
+float: left;
+}
+
+div#stream4 {
+width: 342px;
+float: right;
+}
+
+div#select {
+clear: left;
+}
+
+p.intro {
+width: 35%;
+line-height: 130%;
+float: left;
+padding-right: 15px;
+margin-right: 35px;
+}
+
+div#result {
+float: left;
+width: 35%;
+}
+
+/* EinsteinOnlineInfos */
+.txtklein {
+  text-decoration:none;
+  font-size: 80%;
+  font-family: Verdana, Helvetica, Arial;
+  color:#000000; line-height:9pt;
+}
+
+.bu {
+  text-decoration:none;
+  font-size: 80%;
+  font-family: Verdana, Helvetica, Arial;
+  color:#717171; line-height:9pt;
+}
+
+#areciboSaver {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  width: 35%;
+  height: 35%;
+}

@@ -1,0 +1,656 @@
+[Thu Mar 26 00:15:22 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 26 00:15:22 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+[Thu Mar 26 00:15:23 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Thu Mar 26 00:15:23 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Mar 26 00:15:23 2009] [notice] Parent: Created child process 5552
+[Thu Mar 26 00:15:24 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 26 00:15:24 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+[Thu Mar 26 00:15:25 2009] [notice] Child 5552: Child process is running
+[Thu Mar 26 00:15:25 2009] [notice] Child 5552: Acquired the start mutex.
+[Thu Mar 26 00:15:25 2009] [notice] Child 5552: Starting 250 worker threads.
+[Thu Mar 26 00:15:25 2009] [notice] Child 5552: Starting thread to listen on port 80.
+[Thu Mar 26 00:15:25 2009] [notice] Child 5552: Starting thread to listen on port 443.
+[Thu Mar 26 00:30:31 2009] [error] [client 127.0.0.1] (OS 3)Das System kann den angegebenen Pfad nicht finden.  : couldn't create child process: 720003: test.py, referer: http://python.net/pipermail/python-de/2003q1/002927.html
+[Thu Mar 26 00:30:31 2009] [error] [client 127.0.0.1] (OS 3)Das System kann den angegebenen Pfad nicht finden.  : couldn't spawn child process: C:/xampplite/cgi-bin/test.py, referer: http://python.net/pipermail/python-de/2003q1/002927.html
+[Thu Mar 26 00:35:03 2009] [warn] pid file C:/xampplite/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 26 00:35:03 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 26 00:35:03 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+[Thu Mar 26 00:35:04 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Thu Mar 26 00:35:04 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Mar 26 00:35:04 2009] [notice] Parent: Created child process 6012
+[Thu Mar 26 00:35:05 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 26 00:35:05 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+[Thu Mar 26 00:35:05 2009] [notice] Child 6012: Child process is running
+[Thu Mar 26 00:35:05 2009] [notice] Child 6012: Acquired the start mutex.
+[Thu Mar 26 00:35:05 2009] [notice] Child 6012: Starting 250 worker threads.
+[Thu Mar 26 00:35:05 2009] [notice] Child 6012: Starting thread to listen on port 443.
+[Thu Mar 26 00:35:05 2009] [notice] Child 6012: Starting thread to listen on port 80.
+[Thu Mar 26 00:39:43 2009] [warn] pid file C:/xampplite/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 26 00:39:43 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 26 00:39:43 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+[Thu Mar 26 00:39:44 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Thu Mar 26 00:39:44 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Mar 26 00:39:44 2009] [notice] Parent: Created child process 5048
+[Thu Mar 26 00:39:44 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 26 00:39:44 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+[Thu Mar 26 00:39:45 2009] [notice] Child 5048: Child process is running
+[Thu Mar 26 00:39:45 2009] [notice] Child 5048: Acquired the start mutex.
+[Thu Mar 26 00:39:45 2009] [notice] Child 5048: Starting 250 worker threads.
+[Thu Mar 26 00:39:45 2009] [notice] Child 5048: Starting thread to listen on port 443.
+[Thu Mar 26 00:39:45 2009] [notice] Child 5048: Starting thread to listen on port 80.
+[Thu Mar 26 00:42:08 2009] [error] [client 127.0.0.1] (OS 3)Das System kann den angegebenen Pfad nicht finden.  : couldn't create child process: 720003: test.py
+[Thu Mar 26 00:42:08 2009] [error] [client 127.0.0.1] (OS 3)Das System kann den angegebenen Pfad nicht finden.  : couldn't spawn child process: C:/xampplite/cgi-bin/test.py
+[Thu Mar 26 00:43:26 2009] [warn] pid file C:/xampplite/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 26 00:43:26 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 26 00:43:26 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+[Thu Mar 26 00:43:27 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Thu Mar 26 00:43:27 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Mar 26 00:43:27 2009] [notice] Parent: Created child process 3516
+[Thu Mar 26 00:43:28 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 26 00:43:28 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+[Thu Mar 26 00:43:28 2009] [notice] Child 3516: Child process is running
+[Thu Mar 26 00:43:28 2009] [notice] Child 3516: Acquired the start mutex.
+[Thu Mar 26 00:43:28 2009] [notice] Child 3516: Starting 250 worker threads.
+[Thu Mar 26 00:43:29 2009] [notice] Child 3516: Starting thread to listen on port 80.
+[Thu Mar 26 00:43:29 2009] [notice] Child 3516: Starting thread to listen on port 443.
+[Thu Mar 26 00:44:06 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/soundmanager, referer: http://localhost/BlackHoleHunter/public_html/
+[Thu Mar 26 00:44:06 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/assets, referer: http://localhost/BlackHoleHunter/public_html/css/yui/container.css
+[Thu Mar 26 01:26:59 2009] [warn] pid file C:/xampplite/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 26 01:26:59 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 26 01:26:59 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+[Thu Mar 26 01:27:01 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Thu Mar 26 01:27:01 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Mar 26 01:27:01 2009] [notice] Parent: Created child process 1552
+[Thu Mar 26 01:27:02 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 26 01:27:02 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+[Thu Mar 26 01:27:03 2009] [notice] Child 1552: Child process is running
+[Thu Mar 26 01:27:03 2009] [notice] Child 1552: Acquired the start mutex.
+[Thu Mar 26 01:27:03 2009] [notice] Child 1552: Starting 250 worker threads.
+[Thu Mar 26 01:27:03 2009] [notice] Child 1552: Starting thread to listen on port 80.
+[Thu Mar 26 01:27:03 2009] [notice] Child 1552: Starting thread to listen on port 443.
+[Thu Mar 26 01:27:10 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Thu Mar 26 01:27:14 2009] [error] [client 127.0.0.1] (OS 3)Das System kann den angegebenen Pfad nicht finden.  : couldn't create child process: 720003: GWDA_game01.py, referer: http://localhost/
+[Thu Mar 26 01:27:14 2009] [error] [client 127.0.0.1] (OS 3)Das System kann den angegebenen Pfad nicht finden.  : couldn't spawn child process: C:/xampplite/htdocs/BlackHoleHunter/public_html/cgi-bin/GWDA_game/GWDA_game01.py, referer: http://localhost/
+[Thu Mar 26 01:29:03 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 26 01:29:03 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+[Thu Mar 26 01:29:04 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Thu Mar 26 01:29:04 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Mar 26 01:29:04 2009] [notice] Parent: Created child process 5328
+[Thu Mar 26 01:29:05 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 26 01:29:05 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+[Thu Mar 26 01:29:06 2009] [notice] Child 5328: Child process is running
+[Thu Mar 26 01:29:06 2009] [notice] Child 5328: Acquired the start mutex.
+[Thu Mar 26 01:29:06 2009] [notice] Child 5328: Starting 250 worker threads.
+[Thu Mar 26 01:29:06 2009] [notice] Child 5328: Starting thread to listen on port 80.
+[Thu Mar 26 01:29:06 2009] [notice] Child 5328: Starting thread to listen on port 443.
+[Thu Mar 26 01:29:12 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Thu Mar 26 01:30:48 2009] [error] [client 127.0.0.1] (OS 3)Das System kann den angegebenen Pfad nicht finden.  : couldn't create child process: 720003: GWDA_game01.py, referer: http://localhost/
+[Thu Mar 26 01:30:48 2009] [error] [client 127.0.0.1] (OS 3)Das System kann den angegebenen Pfad nicht finden.  : couldn't spawn child process: C:/xampplite/htdocs/BlackHoleHunter/public_html/cgi-bin/GWDA_game/GWDA_game01.py, referer: http://localhost/
+[Thu Mar 26 01:34:44 2009] [warn] pid file C:/xampplite/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Mar 26 01:34:44 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 26 01:34:44 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+[Thu Mar 26 01:34:45 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Thu Mar 26 01:34:45 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Mar 26 01:34:45 2009] [notice] Parent: Created child process 5396
+[Thu Mar 26 01:34:45 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Mar 26 01:34:45 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - Das angegebene Modul wurde nicht gefunden.\r\n in Unknown on line 0
+[Thu Mar 26 01:34:46 2009] [notice] Child 5396: Child process is running
+[Thu Mar 26 01:34:46 2009] [notice] Child 5396: Acquired the start mutex.
+[Thu Mar 26 01:34:46 2009] [notice] Child 5396: Starting 250 worker threads.
+[Thu Mar 26 01:34:46 2009] [notice] Child 5396: Starting thread to listen on port 443.
+[Thu Mar 26 01:34:46 2009] [notice] Child 5396: Starting thread to listen on port 80.
+[Thu Mar 26 01:34:49 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Thu Mar 26 01:35:41 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Thu Mar 26 01:36:26 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Thu Mar 26 01:36:39 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Thu Mar 26 01:41:00 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Thu Mar 26 01:44:30 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Thu Mar 26 01:45:37 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sat May 02 08:36:13 2009] [warn] pid file C:/xampplite/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat May 02 08:36:13 2009] [notice] Digest: generating secret for digest authentication ...
+[Sat May 02 08:36:13 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat May 02 08:36:15 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Sat May 02 08:36:15 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Sat May 02 08:36:16 2009] [notice] Parent: Created child process 11288
+[Sat May 02 08:36:16 2009] [notice] Digest: generating secret for digest authentication ...
+[Sat May 02 08:36:16 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat May 02 08:36:17 2009] [notice] Child 11288: Child process is running
+[Sat May 02 08:36:17 2009] [notice] Child 11288: Acquired the start mutex.
+[Sat May 02 08:36:17 2009] [notice] Child 11288: Starting 250 worker threads.
+[Sat May 02 08:36:17 2009] [notice] Child 11288: Starting thread to listen on port 443.
+[Sat May 02 08:36:17 2009] [notice] Child 11288: Starting thread to listen on port 80.
+[Sat May 02 08:36:21 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 08:36:54 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 08:37:58 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 08:38:19 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 08:38:32 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 08:38:39 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 08:38:56 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 08:39:18 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:17:31 2009] [notice] Digest: generating secret for digest authentication ...
+[Sat May 02 09:17:31 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat May 02 09:17:36 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Sat May 02 09:17:36 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Sat May 02 09:17:36 2009] [notice] Parent: Created child process 3196
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Sat May 02 09:17:38 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat May 02 09:17:39 2009] [notice] Child 3196: Child process is running
+[Sat May 02 09:17:39 2009] [notice] Child 3196: Acquired the start mutex.
+[Sat May 02 09:17:39 2009] [notice] Child 3196: Starting 250 worker threads.
+[Sat May 02 09:17:39 2009] [notice] Child 3196: Starting thread to listen on port 443.
+[Sat May 02 09:17:39 2009] [notice] Child 3196: Starting thread to listen on port 80.
+[Sat May 02 09:18:09 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:19:04 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:21:20 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:26:20 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:26:24 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:26:31 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:29:28 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:29:51 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:30:01 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:30:07 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:30:54 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:31:18 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:31:23 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:33:45 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:33:48 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:34:16 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:34:39 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:37:21 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:37:41 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:37:47 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:41:16 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:41:56 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:45:18 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:50:33 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:51:00 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:51:57 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:52:14 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:52:26 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 09:55:57 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:00:54 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:03:12 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:03:25 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:03:33 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:04:22 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:04:38 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:04:54 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:06:34 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:07:53 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:10:17 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:11:05 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:13:24 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:13:44 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:17:21 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:17:43 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:19:23 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:19:47 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:20:05 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:28:39 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:28:53 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:29:35 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:29:45 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:29:56 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:33:20 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:33:24 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:33:41 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:34:13 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:34:25 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:34:35 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:34:43 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:39:13 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:39:30 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:39:44 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:39:51 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:39:59 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:40:33 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:42:10 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:42:33 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:42:40 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:43:29 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:44:00 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:46:26 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:46:35 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:47:39 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:47:50 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:48:09 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:48:21 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:48:57 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:49:02 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:49:09 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:50:08 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:50:17 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:50:22 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:50:27 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:50:30 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:51:28 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:52:45 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:52:48 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:52:52 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:54:16 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:54:28 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:54:44 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 10:54:47 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 16:31:19 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 16:51:40 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 17:01:39 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 17:38:33 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 02 22:59:01 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sun May 03 10:18:46 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 03 10:18:46 2009] [notice] Child 3196: Exit event signaled. Child process is ending.
+[Sun May 03 10:18:47 2009] [notice] Child 3196: Released the start mutex
+[Sun May 03 10:18:48 2009] [notice] Child 3196: All worker threads have exited.
+[Sun May 03 10:18:48 2009] [notice] Child 3196: Child process is exiting
+[Sun May 03 10:18:48 2009] [notice] Parent: Child process exited successfully.
+[Sun May 03 10:52:40 2009] [notice] Digest: generating secret for digest authentication ...
+[Sun May 03 10:52:40 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun May 03 10:52:41 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Sun May 03 10:52:41 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Sun May 03 10:52:41 2009] [notice] Parent: Created child process 3596
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Sun May 03 10:52:42 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun May 03 10:52:43 2009] [notice] Child 3596: Child process is running
+[Sun May 03 10:52:43 2009] [notice] Child 3596: Acquired the start mutex.
+[Sun May 03 10:52:43 2009] [notice] Child 3596: Starting 250 worker threads.
+[Sun May 03 10:52:43 2009] [notice] Child 3596: Starting thread to listen on port 443.
+[Sun May 03 10:52:43 2009] [notice] Child 3596: Starting thread to listen on port 80.
+[Sun May 03 10:52:48 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sun May 03 10:55:12 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sun May 03 10:55:19 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sun May 03 10:58:28 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sun May 03 11:01:13 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sun May 03 11:01:55 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:02:48 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:03:16 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:05:12 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:05:42 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:15:25 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:20:55 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:21:02 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:21:03 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:21:06 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:23:45 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:35:10 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:35:28 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:36:26 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:39:12 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:40:14 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:41:09 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:44:36 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:47:08 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:51:12 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:53:31 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:55:37 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 11:57:54 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 12:05:30 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 12:05:35 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 12:05:37 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 12:05:39 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 12:05:40 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 12:05:42 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 12:05:45 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/
+[Sun May 03 13:11:47 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 03 13:11:47 2009] [notice] Child 3596: Exit event signaled. Child process is ending.
+[Sun May 03 13:11:48 2009] [notice] Child 3596: Released the start mutex
+[Sun May 03 13:11:49 2009] [notice] Child 3596: All worker threads have exited.
+[Sun May 03 13:11:49 2009] [notice] Child 3596: Child process is exiting
+[Sun May 03 13:11:49 2009] [notice] Parent: Child process exited successfully.
+[Sun May 03 18:56:23 2009] [notice] Digest: generating secret for digest authentication ...
+[Sun May 03 18:56:23 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun May 03 18:56:31 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Sun May 03 18:56:31 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Sun May 03 18:56:31 2009] [notice] Parent: Created child process 6980
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Sun May 03 18:56:32 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sun May 03 18:56:32 2009] [notice] Child 6980: Child process is running
+[Sun May 03 18:56:33 2009] [notice] Child 6980: Acquired the start mutex.
+[Sun May 03 18:56:33 2009] [notice] Child 6980: Starting 250 worker threads.
+[Sun May 03 18:56:33 2009] [notice] Child 6980: Starting thread to listen on port 443.
+[Sun May 03 18:56:33 2009] [notice] Child 6980: Starting thread to listen on port 80.
+[Sun May 03 20:05:13 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sun May 03 20:05:13 2009] [notice] Child 6980: Exit event signaled. Child process is ending.
+[Sun May 03 20:05:14 2009] [notice] Child 6980: Released the start mutex
+[Sun May 03 20:05:15 2009] [notice] Child 6980: All worker threads have exited.
+[Sun May 03 20:05:15 2009] [notice] Child 6980: Child process is exiting
+[Sun May 03 20:05:15 2009] [notice] Parent: Child process exited successfully.
+[Thu May 07 12:10:39 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu May 07 12:10:39 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu May 07 12:10:43 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Thu May 07 12:10:43 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Thu May 07 12:10:43 2009] [notice] Parent: Created child process 3268
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Thu May 07 12:10:44 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu May 07 12:10:44 2009] [notice] Child 3268: Child process is running
+[Thu May 07 12:10:45 2009] [notice] Child 3268: Acquired the start mutex.
+[Thu May 07 12:10:45 2009] [notice] Child 3268: Starting 250 worker threads.
+[Thu May 07 12:10:45 2009] [notice] Child 3268: Starting thread to listen on port 443.
+[Thu May 07 12:10:45 2009] [notice] Child 3268: Starting thread to listen on port 80.
+[Thu May 07 12:12:44 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu May 07 12:12:44 2009] [notice] Child 3268: Exit event signaled. Child process is ending.
+[Thu May 07 12:12:45 2009] [notice] Child 3268: Released the start mutex
+[Thu May 07 12:12:46 2009] [notice] Child 3268: All worker threads have exited.
+[Thu May 07 12:12:46 2009] [notice] Child 3268: Child process is exiting
+[Thu May 07 12:12:46 2009] [notice] Parent: Child process exited successfully.
+[Sat May 16 16:48:59 2009] [notice] Digest: generating secret for digest authentication ...
+[Sat May 16 16:48:59 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat May 16 16:49:02 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Sat May 16 16:49:02 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Sat May 16 16:49:02 2009] [notice] Parent: Created child process 8404
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Sat May 16 16:49:03 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat May 16 16:49:03 2009] [notice] Child 8404: Child process is running
+[Sat May 16 16:49:03 2009] [notice] Child 8404: Acquired the start mutex.
+[Sat May 16 16:49:03 2009] [notice] Child 8404: Starting 250 worker threads.
+[Sat May 16 16:49:03 2009] [notice] Child 8404: Starting thread to listen on port 443.
+[Sat May 16 16:49:03 2009] [notice] Child 8404: Starting thread to listen on port 80.
+[Sat May 16 16:52:54 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 16 16:52:54 2009] [notice] Child 8404: Exit event signaled. Child process is ending.
+[Sat May 16 16:52:55 2009] [notice] Child 8404: Released the start mutex
+[Sat May 16 16:52:56 2009] [notice] Child 8404: All worker threads have exited.
+[Sat May 16 16:52:56 2009] [notice] Child 8404: Child process is exiting
+[Sat May 16 16:52:56 2009] [notice] Parent: Child process exited successfully.
+[Sat May 16 16:55:27 2009] [notice] Digest: generating secret for digest authentication ...
+[Sat May 16 16:55:27 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat May 16 16:55:27 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Sat May 16 16:55:27 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Sat May 16 16:55:27 2009] [notice] Parent: Created child process 10264
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Sat May 16 16:55:27 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat May 16 16:55:28 2009] [notice] Child 10264: Child process is running
+[Sat May 16 16:55:28 2009] [notice] Child 10264: Acquired the start mutex.
+[Sat May 16 16:55:28 2009] [notice] Child 10264: Starting 250 worker threads.
+[Sat May 16 16:55:28 2009] [notice] Child 10264: Starting thread to listen on port 443.
+[Sat May 16 16:55:28 2009] [notice] Child 10264: Starting thread to listen on port 80.
+[Sat May 16 17:11:11 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 16 17:11:11 2009] [notice] Child 10264: Exit event signaled. Child process is ending.
+[Sat May 16 17:11:12 2009] [notice] Child 10264: Released the start mutex
+[Sat May 16 17:11:13 2009] [notice] Child 10264: All worker threads have exited.
+[Sat May 16 17:11:14 2009] [notice] Child 10264: Child process is exiting
+[Sat May 16 17:11:14 2009] [notice] Parent: Child process exited successfully.
+[Sat May 16 17:11:31 2009] [notice] Digest: generating secret for digest authentication ...
+[Sat May 16 17:11:31 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat May 16 17:11:31 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Sat May 16 17:11:31 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Sat May 16 17:11:31 2009] [notice] Parent: Created child process 8576
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Sat May 16 17:11:32 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat May 16 17:11:32 2009] [notice] Child 8576: Child process is running
+[Sat May 16 17:11:32 2009] [notice] Child 8576: Acquired the start mutex.
+[Sat May 16 17:11:32 2009] [notice] Child 8576: Starting 250 worker threads.
+[Sat May 16 17:11:32 2009] [notice] Child 8576: Starting thread to listen on port 443.
+[Sat May 16 17:11:32 2009] [notice] Child 8576: Starting thread to listen on port 80.
+[Sat May 16 17:24:22 2009] [error] [client 127.0.0.1] File does not exist: C:/xampplite/htdocs/BlackHoleHunter/public_html/assets, referer: http://localhost/css/yui/container.css
+[Sat May 16 18:39:16 2009] [error] [client 127.0.0.1] script not found or unable to stat: C:/xampplite/htdocs/BlackHoleHunter/public_html/cgi-bin/GWDA_game/GWDA_game.html, referer: http://localhost/cgi-bin/GWDA_game/GWDA_game02.py
+[Sat May 16 18:40:04 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 16 18:40:04 2009] [notice] Child 8576: Exit event signaled. Child process is ending.
+[Sat May 16 18:40:05 2009] [notice] Child 8576: Released the start mutex
+[Sat May 16 18:40:06 2009] [notice] Child 8576: All worker threads have exited.
+[Sat May 16 18:40:06 2009] [notice] Child 8576: Child process is exiting
+[Sat May 16 18:40:06 2009] [notice] Parent: Child process exited successfully.
+[Sat May 16 18:40:46 2009] [notice] Digest: generating secret for digest authentication ...
+[Sat May 16 18:40:46 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat May 16 18:40:47 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Sat May 16 18:40:47 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Sat May 16 18:40:47 2009] [notice] Parent: Created child process 4432
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Sat May 16 18:40:48 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat May 16 18:40:48 2009] [notice] Child 4432: Child process is running
+[Sat May 16 18:40:48 2009] [notice] Child 4432: Acquired the start mutex.
+[Sat May 16 18:40:48 2009] [notice] Child 4432: Starting 250 worker threads.
+[Sat May 16 18:40:48 2009] [notice] Child 4432: Starting thread to listen on port 443.
+[Sat May 16 18:40:48 2009] [notice] Child 4432: Starting thread to listen on port 80.
+[Sat May 16 19:52:34 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat May 16 19:52:34 2009] [notice] Child 4432: Exit event signaled. Child process is ending.
+[Sat May 16 19:52:35 2009] [notice] Child 4432: Released the start mutex
+[Sat May 16 19:52:36 2009] [notice] Child 4432: All worker threads have exited.
+[Sat May 16 19:52:36 2009] [notice] Child 4432: Child process is exiting
+[Sat May 16 19:52:36 2009] [notice] Parent: Child process exited successfully.
+[Thu Jun 11 15:39:32 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 11 15:39:32 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 11 15:39:35 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Thu Jun 11 15:39:35 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Jun 11 15:39:35 2009] [notice] Parent: Created child process 5788
+[Thu Jun 11 15:39:35 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 11 15:39:35 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 11 15:39:35 2009] [notice] Child 5788: Child process is running
+[Thu Jun 11 15:39:35 2009] [notice] Child 5788: Acquired the start mutex.
+[Thu Jun 11 15:39:35 2009] [notice] Child 5788: Starting 250 worker threads.
+[Thu Jun 11 15:39:36 2009] [notice] Child 5788: Starting thread to listen on port 443.
+[Thu Jun 11 15:39:36 2009] [notice] Child 5788: Starting thread to listen on port 80.
+[Thu Jun 11 15:41:55 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 11 15:41:55 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 11 15:41:55 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Thu Jun 11 15:41:55 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Jun 11 15:41:55 2009] [notice] Parent: Created child process 4656
+[Thu Jun 11 15:41:56 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 11 15:41:56 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 11 15:41:56 2009] [notice] Child 4656: Child process is running
+[Thu Jun 11 15:41:56 2009] [notice] Child 4656: Acquired the start mutex.
+[Thu Jun 11 15:41:56 2009] [notice] Child 4656: Starting 250 worker threads.
+[Thu Jun 11 15:41:56 2009] [notice] Child 4656: Starting thread to listen on port 443.
+[Thu Jun 11 15:41:56 2009] [notice] Child 4656: Starting thread to listen on port 80.
+[Thu Jun 11 15:47:11 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 11 15:47:11 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 11 15:47:11 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Thu Jun 11 15:47:11 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Jun 11 15:47:11 2009] [notice] Parent: Created child process 5096
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Thu Jun 11 15:47:12 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 11 15:47:13 2009] [notice] Child 5096: Child process is running
+[Thu Jun 11 15:47:13 2009] [notice] Child 5096: Acquired the start mutex.
+[Thu Jun 11 15:47:13 2009] [notice] Child 5096: Starting 250 worker threads.
+[Thu Jun 11 15:47:13 2009] [notice] Child 5096: Starting thread to listen on port 443.
+[Thu Jun 11 15:47:13 2009] [notice] Child 5096: Starting thread to listen on port 80.
+[Thu Jun 11 16:00:10 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jun 11 16:00:10 2009] [notice] Child 5096: Exit event signaled. Child process is ending.
+[Thu Jun 11 16:00:11 2009] [notice] Child 5096: Released the start mutex
+[Thu Jun 11 16:00:12 2009] [notice] Child 5096: All worker threads have exited.
+[Thu Jun 11 16:00:12 2009] [notice] Child 5096: Child process is exiting
+[Thu Jun 11 16:00:12 2009] [notice] Parent: Child process exited successfully.
+[Thu Jun 11 16:00:23 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 11 16:00:23 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 11 16:00:23 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Thu Jun 11 16:00:23 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Jun 11 16:00:23 2009] [notice] Parent: Created child process 3100
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Thu Jun 11 16:00:24 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 11 16:00:24 2009] [notice] Child 3100: Child process is running
+[Thu Jun 11 16:00:24 2009] [notice] Child 3100: Acquired the start mutex.
+[Thu Jun 11 16:00:24 2009] [notice] Child 3100: Starting 250 worker threads.
+[Thu Jun 11 16:00:24 2009] [notice] Child 3100: Starting thread to listen on port 443.
+[Thu Jun 11 16:00:24 2009] [notice] Child 3100: Starting thread to listen on port 80.
+[Thu Jun 11 16:10:46 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jun 11 16:10:46 2009] [notice] Child 3100: Exit event signaled. Child process is ending.
+[Thu Jun 11 16:10:47 2009] [notice] Child 3100: Released the start mutex
+[Thu Jun 11 16:10:48 2009] [notice] Child 3100: All worker threads have exited.
+[Thu Jun 11 16:10:48 2009] [notice] Child 3100: Child process is exiting
+[Thu Jun 11 16:10:48 2009] [notice] Parent: Child process exited successfully.
+[Thu Jun 11 16:17:35 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 11 16:17:35 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 11 16:17:35 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Thu Jun 11 16:17:35 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Jun 11 16:17:35 2009] [notice] Parent: Created child process 4564
+[Thu Jun 11 16:17:36 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 11 16:17:36 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 11 16:17:36 2009] [notice] Child 4564: Child process is running
+[Thu Jun 11 16:17:36 2009] [notice] Child 4564: Acquired the start mutex.
+[Thu Jun 11 16:17:36 2009] [notice] Child 4564: Starting 250 worker threads.
+[Thu Jun 11 16:17:36 2009] [notice] Child 4564: Starting thread to listen on port 80.
+[Thu Jun 11 16:17:36 2009] [notice] Child 4564: Starting thread to listen on port 443.
+[Thu Jun 11 17:12:53 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 11 17:12:53 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 11 17:12:54 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Thu Jun 11 17:12:54 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Jun 11 17:12:54 2009] [notice] Parent: Created child process 2148
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Thu Jun 11 17:12:54 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 11 17:12:55 2009] [notice] Child 2148: Child process is running
+[Thu Jun 11 17:12:55 2009] [notice] Child 2148: Acquired the start mutex.
+[Thu Jun 11 17:12:55 2009] [notice] Child 2148: Starting 250 worker threads.
+[Thu Jun 11 17:12:55 2009] [notice] Child 2148: Starting thread to listen on port 443.
+[Thu Jun 11 17:12:55 2009] [notice] Child 2148: Starting thread to listen on port 80.
+[Thu Jun 11 19:45:49 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jun 11 19:45:49 2009] [notice] Child 2148: Exit event signaled. Child process is ending.
+[Thu Jun 11 19:45:50 2009] [notice] Child 2148: Released the start mutex
+[Thu Jun 11 19:45:51 2009] [notice] Child 2148: All worker threads have exited.
+[Thu Jun 11 19:45:51 2009] [notice] Child 2148: Child process is exiting
+[Thu Jun 11 19:45:51 2009] [notice] Parent: Child process exited successfully.
+[Thu Jun 11 19:46:21 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 11 19:46:21 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 11 19:46:24 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Thu Jun 11 19:46:24 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Jun 11 19:46:24 2009] [notice] Parent: Created child process 5092
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Thu Jun 11 19:46:24 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 11 19:46:25 2009] [notice] Child 5092: Child process is running
+[Thu Jun 11 19:46:25 2009] [notice] Child 5092: Acquired the start mutex.
+[Thu Jun 11 19:46:25 2009] [notice] Child 5092: Starting 250 worker threads.
+[Thu Jun 11 19:46:25 2009] [notice] Child 5092: Starting thread to listen on port 443.
+[Thu Jun 11 19:46:25 2009] [notice] Child 5092: Starting thread to listen on port 80.
+[Thu Jun 11 19:49:45 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jun 11 19:49:45 2009] [notice] Child 5092: Exit event signaled. Child process is ending.
+[Thu Jun 11 19:49:46 2009] [notice] Child 5092: Released the start mutex
+[Thu Jun 11 19:49:47 2009] [notice] Child 5092: All worker threads have exited.
+[Thu Jun 11 19:49:47 2009] [notice] Child 5092: Child process is exiting
+[Thu Jun 11 19:49:47 2009] [notice] Parent: Child process exited successfully.
+[Thu Jun 11 19:49:53 2009] [notice] Digest: generating secret for digest authentication ...
+[Thu Jun 11 19:49:53 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 11 19:49:53 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Thu Jun 11 19:49:53 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Thu Jun 11 19:49:53 2009] [notice] Parent: Created child process 3152
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Thu Jun 11 19:49:54 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Thu Jun 11 19:49:54 2009] [notice] Child 3152: Child process is running
+[Thu Jun 11 19:49:54 2009] [notice] Child 3152: Acquired the start mutex.
+[Thu Jun 11 19:49:54 2009] [notice] Child 3152: Starting 250 worker threads.
+[Thu Jun 11 19:49:54 2009] [notice] Child 3152: Starting thread to listen on port 443.
+[Thu Jun 11 19:49:54 2009] [notice] Child 3152: Starting thread to listen on port 80.
+[Thu Jun 11 20:36:49 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jun 11 20:36:49 2009] [notice] Child 3152: Exit event signaled. Child process is ending.
+[Thu Jun 11 20:36:50 2009] [notice] Child 3152: Released the start mutex
+[Thu Jun 11 20:36:51 2009] [notice] Child 3152: All worker threads have exited.
+[Thu Jun 11 20:36:51 2009] [notice] Child 3152: Child process is exiting
+[Thu Jun 11 20:36:51 2009] [notice] Parent: Child process exited successfully.
+[Sat Aug 15 07:30:13 2009] [notice] Digest: generating secret for digest authentication ...
+[Sat Aug 15 07:30:13 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 15 07:30:18 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Sat Aug 15 07:30:18 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Sat Aug 15 07:30:18 2009] [notice] Parent: Created child process 3996
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Sat Aug 15 07:30:19 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Sat Aug 15 07:30:20 2009] [notice] Child 3996: Child process is running
+[Sat Aug 15 07:30:20 2009] [notice] Child 3996: Acquired the start mutex.
+[Sat Aug 15 07:30:20 2009] [notice] Child 3996: Starting 250 worker threads.
+[Sat Aug 15 07:30:20 2009] [notice] Child 3996: Starting thread to listen on port 80.
+[Sat Aug 15 07:30:20 2009] [notice] Child 3996: Starting thread to listen on port 443.
+[Sat Aug 15 08:41:51 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Sat Aug 15 08:41:51 2009] [notice] Child 3996: Exit event signaled. Child process is ending.
+[Sat Aug 15 08:41:52 2009] [notice] Child 3996: Released the start mutex
+[Sat Aug 15 08:41:53 2009] [notice] Child 3996: All worker threads have exited.
+[Sat Aug 15 08:41:53 2009] [notice] Child 3996: Child process is exiting
+[Sat Aug 15 08:41:53 2009] [notice] Parent: Child process exited successfully.
+[Mon Dec 28 15:03:08 2009] [notice] Digest: generating secret for digest authentication ...
+[Mon Dec 28 15:03:08 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Dec 28 15:03:12 2009] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Mon Dec 28 15:03:12 2009] [notice] Server built: Dec 10 2008 00:10:06
+[Mon Dec 28 15:03:12 2009] [notice] Parent: Created child process 4820
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Mon Dec 28 15:03:13 2009] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Mon Dec 28 15:03:13 2009] [notice] Child 4820: Child process is running
+[Mon Dec 28 15:03:13 2009] [notice] Child 4820: Acquired the start mutex.
+[Mon Dec 28 15:03:13 2009] [notice] Child 4820: Starting 250 worker threads.
+[Mon Dec 28 15:03:13 2009] [notice] Child 4820: Starting thread to listen on port 443.
+[Mon Dec 28 15:03:13 2009] [notice] Child 4820: Starting thread to listen on port 80.
+[Mon Dec 28 15:38:38 2009] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Dec 28 15:38:38 2009] [notice] Child 4820: Exit event signaled. Child process is ending.
+[Mon Dec 28 15:38:39 2009] [notice] Child 4820: Released the start mutex
+[Mon Dec 28 15:38:40 2009] [notice] Child 4820: All worker threads have exited.
+[Mon Dec 28 15:38:40 2009] [notice] Child 4820: Child process is exiting
+[Mon Dec 28 15:38:41 2009] [notice] Parent: Child process exited successfully.
+[Fri May 24 07:58:41 2013] [notice] Digest: generating secret for digest authentication ...
+[Fri May 24 07:58:41 2013] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri May 24 07:58:50 2013] [notice] Apache/2.2.11 (Win32) DAV/2 mod_ssl/2.2.11 OpenSSL/0.9.8i mod_autoindex_color PHP/5.2.8 configured -- resuming normal operations
+[Fri May 24 07:58:50 2013] [notice] Server built: Dec 10 2008 00:10:06
+[Fri May 24 07:58:50 2013] [notice] Parent: Created child process 6940
+Apache server shutdown initiated...
+Digest: generating secret for digest authentication ...
+[Fri May 24 07:58:51 2013] [notice] Digest: done
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:\\xampplite\\php\\ext\\php_pdf.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Fri May 24 07:58:52 2013] [notice] Child 6940: Child process is running
+[Fri May 24 07:58:52 2013] [notice] Child 6940: Acquired the start mutex.
+[Fri May 24 07:58:52 2013] [notice] Child 6940: Starting 250 worker threads.
+[Fri May 24 07:58:52 2013] [notice] Child 6940: Starting thread to listen on port 443.
+[Fri May 24 07:58:52 2013] [notice] Child 6940: Starting thread to listen on port 80.
+[Fri May 24 08:06:52 2013] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Fri May 24 08:06:52 2013] [notice] Child 6940: Exit event signaled. Child process is ending.
+[Fri May 24 08:06:53 2013] [notice] Child 6940: Released the start mutex
+[Fri May 24 08:06:54 2013] [notice] Child 6940: All worker threads have exited.
+[Fri May 24 08:06:54 2013] [notice] Child 6940: Child process is exiting

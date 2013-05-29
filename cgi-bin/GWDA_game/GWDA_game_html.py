@@ -131,7 +131,7 @@ def no_signal_set():
   htmlOutput = """<div id="contentgame"> /n"""
   htmlOutput += "Error: no signal has been chosen. If you are seeing this message please contact the developers.\n"
   htmlOutput +=  "Please return to the previous page and try again.\n"
-  htmlOutput += """<form method="post" action="/index.html">
+  htmlOutput += """<form method="get" action="/index.html">
 <p>
 <input type="submit" value="Try again." />
 </p>
@@ -397,7 +397,7 @@ Copyright &copy; Cardiff University
   else:
     htmlOutput += """<p> Would you like to try again? </p>"""
   htmlOutput += """
-<form method="post" action="/index.html">
+<form method="get" action="/index.html">
 <p> <input type="submit" value="Restart Game"/>
 </p>
 </form>

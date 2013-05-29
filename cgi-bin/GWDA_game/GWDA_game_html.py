@@ -1,4 +1,4 @@
-#!C:/xampplite/python/python.exe
+#!/usr/bin/env python
 import random
 
 def html_header_standard():

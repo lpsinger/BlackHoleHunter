@@ -1,4 +1,4 @@
-#!C:/xampplite/python/python.exe
+#!/usr/bin/env python
 
 def general_error (exception):
   htmlOutput = "<html>\n"

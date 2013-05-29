@@ -21,7 +21,7 @@ maxPlays = 6
 initLives = 2
 path = "/mp3signalBankglitchesnew/"
 glitchpath = "/mp3signalBankglitchesnew/"
-localpath = "../.."
+localpath = "."
 
 
 def GWDA_game_main():
@@ -146,7 +146,7 @@ def GWDA_game_main():
 
 
 def GWDA_game_results ():
-  quoteFile = "../../quotes.ini"
+  quoteFile = "./quotes.ini"
   form = cgi.FieldStorage()
   wavePicture = []
   waveSound = []

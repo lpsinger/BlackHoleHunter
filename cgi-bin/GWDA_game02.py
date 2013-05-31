@@ -11,7 +11,7 @@ def general_error (exception):
   htmlOutput += "\n"
   htmlOutput += "<br />"
   htmlOutput += "<br />"
-  htmlOutput += """<form method="POST" action="/cgi-bin/GWDA_game/GWDA_game.html">
+  htmlOutput += """<form method="POST" action="/cgi-bin/GWDA_game.html">
 <input type="submit" value="Try again.">
 </form>"""
   htmlOutput += "</body>\n</html>"

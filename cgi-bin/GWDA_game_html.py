@@ -235,7 +235,7 @@ Real detectors do not give perfect output. Some of the data streams below may co
   htmlOutput += """<div id="select">\n"""
   htmlOutput += """<br />\n"""
   htmlOutput += """<br />\n"""
-  htmlOutput += """<form method="post" action="/cgi-bin/GWDA_game/GWDA_game02.py">\n"""
+  htmlOutput += """<form method="post" action="/cgi-bin/GWDA_game02.py">\n"""
   htmlOutput += """<p>Select which example contains the signal:&nbsp;&nbsp;\n"""
   htmlOutput += """<input name="submit" value="Proceed" id="submit" type="submit"/><br/></p> \n"""  
   htmlOutput += """<p><input name="answer" id="answer" value="1" type="radio" checked="checked"/>Data Stream 1 \n"""
@@ -279,7 +279,7 @@ def answer_given(answerCorrect,wavePicture,userScore,quoteText,quoteLink,quoteID
   if not answerCorrect:
     htmlOutput += "<p>That was the wrong answer.</p> <p>On the right you can see the signal, shown in red, embedded in the noise of the correct data stream.</p>\n"
   htmlOutput += """<p><b>Current score: """ + str(userScore) + """&nbsp;&nbsp;&nbsp;&nbsp; Current lives: """ + str(numLives) + """</b></p>\n"""
-  htmlOutput += """<form method="post" action="/cgi-bin/GWDA_game/GWDA_game01.py"> \n"""
+  htmlOutput += """<form method="post" action="/cgi-bin/GWDA_game01.py"> \n"""
   htmlOutput += """<p>\n"""
   htmlOutput += """<input type="hidden" name="quotetext" value=""" + "\"" + str(quoteText) + "\"" + """ />\n"""
   htmlOutput += """<input type="hidden" name="quotelink" value=""" + "\"" + str(quoteLink) + "\"" + """ />\n"""
